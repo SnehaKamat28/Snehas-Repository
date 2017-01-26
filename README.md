@@ -1,2 +1,2 @@
 # Snehas-Repository
-Coding is a fun exprience
+Coding is a fun expression
